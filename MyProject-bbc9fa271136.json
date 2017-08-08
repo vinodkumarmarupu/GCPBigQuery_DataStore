@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "superb-watch-172816",
+  "private_key_id": "bbc9fa2711362f132030516afeda39d372b5ee63",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCVXAxgkJoCkbcr\n3PPvKHWiavjNteV586SC+4mrSfHE+DnQdoW7RXyI5ftsmPB1YXhZkShiQvhfF/n0\ng7THlBnOrytqCsS0VZOnwQAB/W5jGxboBbXF2+NoBC7wQgh5+PsPINgenwPMgfPj\nAMoOnF5rfLORQMKGwYyXI1WoQ/huWLNO3725ZVNrq5pf4PbBgVKckUANsOKTpWgB\n26lZ+4riPNxZkNx/VfMNcUOm5s9wu0MBh2oFaDPfEZ/sfOXCpWN+1E6AGoYZ/yFJ\nQtKylcJERMIxMBfZJVDZLkQu+GYDmGQzIFIOtd4td2AOfvclpdokX25910x0AVOd\n3NQccaxtAgMBAAECggEAC0Bg6lFaWMEzZEmD0stgeTjHv29pdxNknD1otI+gd+8f\nI9YZ4u6sH//7PcYTrzQFhfHKcgSLg1ZiDQpy7un4O7q0cYuYH+GmeueuIXg+/ZZH\n1ni/pcUXz3kpNA41Z0LbXtthjIT8G0ba4YnorssWzdAaEuInBVHFTolp5YAhUead\nNGey+Wq0oAeiCnVUoSOP8q+b+/0mz5D8x5zwYMf6Tu+6MAHAi0YL/RTv7Gf+/ges\nNFSyTL+KlBnCZWQ6ZmQbgvm2ac3f7Cs2CUyIa75AjLrT3UPUR7MHyRurZfxcDaae\nGl0i1I+4xbFVtZIOULWt6Rc2FxOboLT9G7NjfkRlfQKBgQDNR55fb4Pzu3/XfAWi\nHZdHjlaMbMy3mWDmujW66kV8Q25YBkIFJMBfSVObWBRIR8QrRzpizggTGMw1Kt9W\nlJTPaBqe0i3jSyCy2j43f7GQhTJLR0KiHefEAPIzfOiSOd4Omg1GiKuUfcqXhyAB\nnze94rJ8GV2AqBGPLmQsHMcWzwKBgQC6Q1u987d5XopWkE0/dbP0pF4idb4DorKf\nooKEGYMvME4sZVsnXLtC0Pq1QODEWHrxkEDCEp6lbxaRU88+4Pv/a8DSZPOmfMcw\nwOqxsFdy+pSIpJBNkcsi8/Pb7T0ya3m85Aq9CIbFOzTt64MOEFw9nDSIs077BMmq\nKXGK0rcYAwKBgQDK3i9eg3d05OS3kQKELxg1CC7yQgeinjqMapP079bRslYXOb//\nE03mHTI6ADazI/FzD8ZcpN6H+Oa+2Gq1Rss1md1M/cuJp9Jdzp7T/Cb/+xI0IO1y\nB3nnU0QIrDWvZO7VoVrjTOe8LQCM9WYlFDNjPelECVFFd1M7HA61JY9/MwKBgQCh\n2XP3e7Ya9WZ5z4wAL5O+abEOeocw+4gBJKIKjWyrbWsQMsZhTre9WH/xTb3Bfyzd\niL5spOdL01qlz1CPT8pI6OW1LFl3eodPOuL0oclrNIgqr+xgKuZ7qcVlfiEmFbPD\nydf26FjLOyZD8th/OQId2wTfIAfqIP/nJ3ns6iqE5wKBgQCX9v4S+DRTWJXMY2ab\nEZDlJVtKFLmYYtHOkmYtHY816majjufOjgMz55fgXLDmPyN+qnrk8bDWdPLjwf6y\naRxR+GWbQ8YsvUJpkkW5QF5n+X/qJtaDOUnViGWFgKT7tRNgj2j2RlkO/bT28UB4\nWZDjm9PNGilgFkwlAO76xwloTw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "account2@superb-watch-172816.iam.gserviceaccount.com",
+  "client_id": "114253487116662312720",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/account2%40superb-watch-172816.iam.gserviceaccount.com"
+}
